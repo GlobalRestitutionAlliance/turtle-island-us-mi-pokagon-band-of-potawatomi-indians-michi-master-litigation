@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MI+POKAGON+BAND+OF+POTAWATOMI+INDIANS+MICHI",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MI+POKAGON+BAND+OF+POTAWATOMI+INDIANS+MICHI",
+  "title": "Federal Register - MI POKAGON BAND OF POTAWATOMI INDIANS MICHI",
+  "fetched_at": "2026-11-23T17:42:08.065766Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "e3afd904d49f568ee22832ee4c007a492d0da317a89a24f1a352514c7e48ddb3",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
